@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi there! I'm Sachidananda 👋
 
-<!--
-**Sachid-007/Sachid-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Physics graduate (BSc) who discovered a strong passion for data. I love diving into data cleaning, writing database queries, and building business intelligence dashboards to uncover actionable insights. 
 
-Here are some ideas to get you started:
+I am currently building my portfolio, expanding my technical skill set, and actively seeking entry-level Data Analyst roles!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Data Analytics Stack
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### 📊 Featured Projects
+* **[Online Retail Sales Analysis](#):** An end-to-end portfolio project utilizing SQL, Excel, and Tableau to clean raw data, execute queries, and visualize sales performance. 
+* **[Bike-Sharing Dataset Analysis](#):** Processed and analyzed usage patterns within a bike-sharing network.
+
+### 🎓 Certifications & Simulations
+* **Google Data Analytics Professional Certificate** (Coursera)
+* **Data Analytics Virtual Job Simulations:** Completed micro-internships for TATA IQ and Deloitte via the Forage platform.
+
+### 🌱 Currently Learning
+* Planning an end-to-end marketing funnel performance and budget recommendation case study.
+* Exploring the broader digital media landscape and business models.
+
+### 📫 Let's Connect!
+* **LinkedIn:** [Insert your LinkedIn URL here]
+* **Email:** [sachidananda715@gmail.com]
+  

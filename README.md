@@ -23,6 +23,6 @@ I am currently building my portfolio, expanding my technical skill set, and acti
 * Exploring the broader digital media landscape and business models.
 
 ### 📫 Let's Connect!
-* **LinkedIn:** [Insert your LinkedIn URL here]
+* **LinkedIn:** [https://linkedin.com/in/sachidananda-swain-30943130a]
 * **Email:** [sachidananda715@gmail.com]
   

@@ -11,8 +11,7 @@ I am currently building my portfolio, expanding my technical skill set, and acti
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### 📊 Featured Projects
-* **[Online Retail Sales Analysis](#):** An end-to-end portfolio project utilizing SQL, Excel, and Tableau to clean raw data, execute queries, and visualize sales performance. 
-* **[Bike-Sharing Dataset Analysis](#):** Processed and analyzed usage patterns within a bike-sharing network.
+* **[NutriGlobal-Sales-Analytics-End-to-End-Data-Analysis](#):**An end-to-end data analytics project using PostgreSQL, Python, and Tableau to analyze multi-country nutrition supplement sales and deliver actionable business insights.
 
 ### 🎓 Certifications & Simulations
 * **Google Data Analytics Professional Certificate** (Coursera)

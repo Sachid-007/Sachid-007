@@ -1,4 +1,5 @@
-## Hi there! I'm Sachidananda <img width="577" height="433" alt="Manu-removebg-preview" src="https://github.com/user-attachments/assets/acad1820-f636-42f7-8218-3c4693596ebb" />
+## Hi there! I'm Sachidananda <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/4721a29d-3006-4bd9-9db9-27e6fd81af1a" />
+
 
 
 I am a Physics graduate (BSc) who discovered a strong passion for data. I love diving into data cleaning, writing database queries, and building business intelligence dashboards to uncover actionable insights. 
